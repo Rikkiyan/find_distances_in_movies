@@ -7,4 +7,5 @@ pip install -r requirements.txt
 Настройка: Отредактируйте скрипт, чтобы указать URL-адреса актёров, между которыми вы хотите найти кратчайшее расстояние. Например:
 
 actor_url_1 = "https://www.imdb.com/name/nm0000123/fullcredits"  # Al Pacino
+
 actor_url_2 = "https://www.imdb.com/name/nm0000163/fullcredits"  # Kevin Bacon
